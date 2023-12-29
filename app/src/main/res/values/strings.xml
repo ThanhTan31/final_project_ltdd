@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ECommerce App</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Your Products</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description1">Bạn chọn chứ không phải tôi</string>
+    <string name="description2">Tốc độ bàn thờ</string>
+    <string name="description3">Hàng tốt chứ!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
